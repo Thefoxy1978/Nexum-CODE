@@ -14,8 +14,8 @@ Player Controller Design: I created a custom player controller system to manage 
 
 ---------------------
 
-Original git: https://github.com/aiv01/nexum
+[Original git](https://github.com/aiv01/nexum)
 
 Video: TO DO
 
-Exe: TO DO
+[Exe](https://github.com/Thefoxy1978/Nexum-CODE/releases/tag/indie)
