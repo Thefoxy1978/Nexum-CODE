@@ -11,4 +11,6 @@ A significant amount of development effort went into:
 Player Controller Design: I created a custom player controller system to manage the controls, interactions, and unique behaviors of both characters. Each character is designed to be distinct yet consistent, enhancing the gameplay experience while preserving responsiveness and ease of control during character switching.
 
 
-Link to the original git: https://github.com/aiv01/nexum
+Original git: https://github.com/aiv01/nexum
+Video: TO DO
+Exe: TO DO
